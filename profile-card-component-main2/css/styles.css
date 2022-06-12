@@ -1,0 +1,106 @@
+body {
+  background-color: lightblue;
+}
+
+h5{
+  color: hsl(227, 10%, 46%);
+  /margin-top: 40px;
+  line-height: 20px;
+  padding-top: 50px;
+}
+
+hr {
+  border: none;
+  border-top: dotted;
+  width: 40%;
+  border-width: 10px;
+  color: hsl(227, 10%, 46%);
+
+
+}
+.Victor {
+  color: hsl(229, 23%, 23%);
+
+}
+
+.CaixaPrincipal{
+position: relative;
+background-color: hsl(185, 75%, 39%);
+width: 20%;
+margin: auto;
+border-radius: 15px;
+text-align: center;
+margin-top: 150px;
+/padding-top: 10px;
+font-family: 'Kumbh Sans', sans-serif;
+
+}
+
+.PhotoVictor{
+position: absolute;
+margin-left: 100px;
+margin-top: 50px;
+width: 80px;
+/border: 5px red solid;
+
+}
+
+.CaixaVictor {
+  position: static;
+  width: 260px;
+  /height: 110px;
+  border: 5px white solid;
+  margin-top: 80px;
+  /padding-bottom: 30px;
+
+
+
+
+  background-color: white;
+}
+
+
+.CaixaInferior {
+  display: inline-block;
+  width: 260px;
+  /border: 5px red solid;
+  margin-top: 0;
+  padding: 5px;
+  font-family: 'Kumbh Sans', sans-serif;
+  background-color: white;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.Follower {
+display: inline-block;
+font-size: 11px;
+font-family: 'Kumbh Sans', sans-serif;
+color: hsl(0, 0%, 59%)
+
+}
+
+
+.Likes {
+display: inline-block;
+font-size: 11px;
+font-family: 'Kumbh Sans', sans-serif;
+margin-left: 35px;
+margin-right: 35px;
+color: hsl(0, 0%, 59%);
+
+}
+
+.Photos {
+display: inline-block;
+font-size: 11px;
+font-family: 'Kumbh Sans', sans-serif;
+color: hsl(0, 0%, 59%);
+
+}
+
+.Numeros {
+font-size: 18px;
+font-family: 'Kumbh Sans', sans-serif;
+color: hsl(229, 23%, 23%);
+}

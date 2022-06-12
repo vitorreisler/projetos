@@ -1,0 +1,130 @@
+body {
+  /font-family: 'Source Serif Pro', serif;
+  /font-weight: 700;
+
+}
+#title {
+  background-color: #0e49b5;
+  height: 500px;
+}
+
+
+
+.titleImage {
+  position: absolute;
+  margin-left: 15%;
+  border-radius: 100px;
+  width: 25%;
+  margin-top: 55px;
+}
+@media only screen and (max-width: 740px) {
+  .titleImage {
+    position: static;
+    width: 35%;
+    margin-top: 5%;
+
+  }
+}
+
+.textTitle{
+  margin-left: 50px;
+  margin-top: 80px;
+}
+
+@media only screen and (max-width: 992px) {
+.textTitle {
+  text-align: left;
+}
+}
+
+/*Navbar*/
+.navbar-brand{
+  padding: 2%;
+  font-family: 'Source Serif Pro', serif;
+  font-weight: 700;
+}
+
+.navbar-nav{
+  margin-left: auto;
+  margin-right: 180px;
+}
+
+.nav-item {
+  padding: 4%;
+  font-family: 'Source Serif Pro', serif;
+  font-weight: 400;
+}
+
+.row {
+  font-family: 'Source Serif Pro', serif;
+  padding-left: 50px;
+  color: #fff;
+
+
+}
+
+
+
+/*Carousel*/
+.carousel-item {
+  margin: 3% 25%;
+}
+
+.carousel-control-next-icon {
+  background-color: blue;;
+}
+.carousel-control-prev-icon {
+  background-color: blue;
+}
+.carouselImage {
+  border-radius: 100px;
+}
+@media screen and (max-width: 1000px){
+  .carouselImage {
+    width: 50%;
+  }
+}
+
+/* Card */
+#pricing {
+text-align: center;
+background-color: #0e49b5;
+}
+.card-body{
+  background-color: #0e49b5;
+  color: #fff;
+}
+.textPricing {
+  color: #fff;
+  font-family: 'Source Serif Pro', serif;
+
+}
+.card-header{
+  color: #0e49b5;
+}
+
+.btn-outline-light {
+  margin-top: 80px;
+
+}
+#cta {
+  text-align: center;
+  font-family: 'Source Serif Pro', serif;
+}
+.cta-heading {
+  padding: 3% 15%;
+  color: #0e49b5;
+}
+.buy-button {
+  margin: 20px;
+}
+
+#footerid {
+  font-family: 'Source Serif Pro', serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.footerclass {
+  margin: 20px;
+}

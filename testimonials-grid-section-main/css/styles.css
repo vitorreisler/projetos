@@ -1,0 +1,183 @@
+body {
+  display: inline-block;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  padding: 7% 12% 7% 5%;
+  background-color: hsl(0, 0%, 81%);
+}
+h1 {
+  font-size: 20px;
+  line-height: 1.8rem;
+}
+main{
+  max-width: 1080px;
+}
+
+.CaixaSuperior {
+display: inline-block;
+width: 1440px;
+
+}
+
+.Daniel {
+  display: inline-block;
+  background-color: hsl(263, 55%, 52%);
+  width: 48%;
+  padding: 2%;
+  line-height: 1.3rem;
+  border-radius: 10px;
+}
+
+.HeadingDaniel {
+  color: #fff;
+}
+.DanielImg {
+  display: inline-block;
+  border-radius: 100%;
+
+}
+.TitleDaniel {
+  display: inline-block;
+  width: 50%;
+  margin-left: 15px;
+  color: #fff;
+
+}
+.TextDaniel {
+  font-size: 15px;
+  color: hsl(0, 0%, 81%);
+  line-height: 1.1rem;
+}
+
+.Jonathan {
+text-align: left;
+  margin-left: 15px;
+  display: inline-block;
+  border-radius: 10px;
+  background-color: hsl(217, 19%, 35%);
+  width: 20%;
+  padding: 2%;
+  padding-top: 12px;
+
+
+}
+
+.JonathanImg {
+  display: inline-block;
+  border-radius: 100%;
+}
+
+.TitleJonathan{
+  display: inline-block;
+  width: 50%;
+  margin-left: 15px;
+  color: #fff;
+}
+.HeadingJonathan {
+  color: #fff;
+}
+
+.TextJonathan{
+  font-size: 15px;
+  color: hsl(0, 0%, 81%);
+  line-height: 1.1rem;
+}
+
+.Jeanette {
+    margin-top: 70px;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: #fff;
+    width: 18%;
+    padding: 2%;
+    padding-bottom: 1%;
+}
+
+.JeanetteImg {
+  border-radius: 100%;
+  display: inline-block;
+}
+.TitleJeanette {
+  display: inline-block;
+  color: hsl(217, 19%, 35%);
+  width: 50%;
+  margin-left: 15px;
+
+}
+
+.HeadingJeanette {
+  color: hsl(217, 19%, 35%);
+
+}
+
+.TextJeanette {
+  color: hsl(217, 19%, 35%);
+  font-size: 15px;
+  line-height: 1.1rem;
+}
+
+.Patrick {
+  display: inline-block;
+  margin-top: 70px;
+  background-color: hsl(219, 29%, 14%);
+  width: 47%;
+  padding: 28px;
+  padding-right: 55px;
+  border-radius: 10px;
+  margin-left: 30px;
+}
+
+.PatrickImg {
+display: inline-block;
+border-radius: 100%;
+}
+
+.TitlePatrick {
+  display: inline-block;
+  margin-left: 15px;
+  color: #fff;
+  width: 27%;
+}
+
+.HeadingPatrick {
+  color: #fff;
+}
+
+.TextPatrick {
+  color: hsl(0, 0%, 81%);
+  font-size: 15px;
+  line-height: 1.1rem;
+}
+
+.Kira {
+position: absolute;
+background-color: #fff;
+display: inline-block;
+width: 13%;
+padding: 3%;
+border-radius: 10px;
+margin-left:1150px;
+top: 115px;
+}
+
+.KiraImg {
+  display: inline-block;
+  border-radius: 100%;
+}
+.TitleKira {
+  display: inline-block;
+  color: hsl(217, 19%, 35%);
+  width: 58%;
+  margin-left: 15px;
+}
+
+.HeadingKira {
+color: hsl(219, 29%, 14%);
+}
+
+.TextKira {
+color: hsl(217, 19%, 35%);
+  font-size: 15px;
+  line-height: 1.1rem;
+}
+
+

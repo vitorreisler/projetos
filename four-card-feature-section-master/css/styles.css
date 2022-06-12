@@ -1,0 +1,152 @@
+h3 {
+  color: hsl(234, 12%, 34%);
+  font-weight: lighter;
+}
+
+.CaixaSuperior {
+  position: relative;
+  /Border: 5px red solid;
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  height: 250px;
+
+}
+
+.CaixaSuperiorInterna {
+position: absolute;
+line-height: 15px;
+margin-left: 450px;
+/Border: 5px blue solid;
+margin-top: 40px;
+font-family: 'Poppins', sans-serif;
+}
+
+.CaixaInferiorInterna {
+  font-size: 18px;
+  width: 900px;
+  position: absolute;
+  /Border: 5px blue solid;
+  margin-top: 190px;
+  margin-left: 230px;
+  font-family: 'Poppins', sans-serif;
+  color: hsl(229, 6%, 66%);
+}
+
+.Powered {
+color: hsl(234, 12%, 34%);
+
+}
+
+.CaixaBaixa{
+  Position: relative;
+  /border: 3px green solid;
+  height: 600px;
+}
+
+.CaixaTop {
+  display:inline-block;
+  position: absolute;
+  border-radius: 15px;
+  border: 3px hsl(0, 78%, 62%) solid;
+  border-left: 1px hsl(229, 6%, 66%) solid;
+  border-right: 1px hsl(229, 6%, 66%) solid;
+  border-bottom: 1px hsl(229, 6%, 66%) solid;
+  width: 400px;
+  height: 250px;
+  margin-top: 30px;
+  margin-left: 10px;
+  box-shadow: 4px 7px lightgrey;
+}
+
+.CaixaEsq {
+
+  box-shadow: 4px 7px hsl(0, 0%, 98%);
+  display: inline-block;
+  border-radius: 15px;
+  border: 3px hsl(180, 62%, 55%) solid;
+  border-left: 1px hsl(229, 6%, 66%) solid;
+  border-right: 1px hsl(229, 6%, 66%) solid;
+  border-bottom: 1px hsl(229, 6%, 66%) solid;
+  width: 400px;
+  height: 250px;
+  margin-top: 150px;
+  margin-left: 50px;
+  box-shadow: 4px 7px lightgrey;
+}
+
+.CaixaBottom {
+  position: absolute;
+  display: inline-block;
+  border-radius: 15px;
+  border: 3px  hsl(34, 97%, 64%) solid;
+  border-left: 1px hsl(229, 6%, 66%) solid;
+  border-right: 1px hsl(229, 6%, 66%) solid;
+  border-bottom: 1px hsl(229, 6%, 66%) solid;
+  width: 400px;
+  height: 250px;
+  margin-top: 300px;
+  margin-left: 10px;
+  box-shadow: 4px 7px lightgrey;
+}
+.CaixaDir {
+  display: inline-block;
+  border-radius: 15px;
+  border: 3px hsl(212, 86%, 64%) solid;
+  border-left: 1px hsl(229, 6%, 66%) solid;
+  border-right: 1px hsl(229, 6%, 66%) solid;
+  border-bottom: 1px hsl(229, 6%, 66%) solid;
+  width: 400px;
+  height: 250px;
+  margin-top: 150px;
+  margin-left: 420px;
+  box-shadow: 4px 7px lightgrey;
+}
+
+.TitulosCaixa {
+/border: 3px green solid;
+color: hsl(234, 12%, 34%);
+font-family: 'Poppins', sans-serif;
+font-size: 15px;
+font-weight: 700;
+margin-left: 30px;
+margin-top: 30px;
+
+}
+
+.Text {
+  font-family: 'Poppins', sans-serif;
+  /border: 3px blue solid;
+  margin-left: 30px;
+  color: hsl(229, 6%, 66%);
+}
+
+.CaixaEsqImg {
+  position: absolute;
+  /border: 3px red solid;
+  width: 65px;
+  margin-top: 150px;
+  margin-left: 300px;
+
+}
+
+.CaixaTopImg {
+  position: absolute;
+  /border: 3px red solid;
+  margin-left: 300px;
+  margin-top: 150px;
+}
+
+.CaixaBottomImg {
+  position: absolute;
+  /border: 3px red solid;
+  margin-left: 300px;
+  margin-top: 150px;
+}
+
+.CaixaDirImg {
+  position: absolute;
+  /border: 3px red solid;
+  margin-left: 300px;
+  margin-top: 150px;
+}

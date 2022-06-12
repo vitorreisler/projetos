@@ -1,0 +1,35 @@
+/*************************TAG selector****************/
+body {
+  background-color: #c7b198;
+}
+hr {
+ border-style: none;
+ border-top-style: dotted;
+ border-color: #685454;
+ border-width: 7px;
+ width: 20%;
+}
+
+h1 {
+  color: black;
+ font-family: monospace; lucida-console;
+ }
+
+h3 {
+  color: #393e46;
+font-family: sans-serif; helvetica;
+}
+
+strong {
+font-family: monospace; monaco;
+font-size: 15px;
+}
+
+
+/***************************CLASS SELECTOR*********************************/
+
+
+/**************************ID SELECTOR*************************************/
+#circular {
+  border-radius: 100%;
+}
